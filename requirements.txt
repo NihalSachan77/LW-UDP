@@ -4,3 +4,4 @@ pycryptodome
 protobuf-decoder
 protobuf
 google-api-python-client
+aiohttp
